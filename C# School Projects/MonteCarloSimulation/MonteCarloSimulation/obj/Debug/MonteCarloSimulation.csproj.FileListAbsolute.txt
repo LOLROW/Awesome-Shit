@@ -1,0 +1,6 @@
+C:\Users\owens\RiderProjects\MonteCarloSimulation\MonteCarloSimulation\bin\Debug\MonteCarloSimulation.exe
+C:\Users\owens\RiderProjects\MonteCarloSimulation\MonteCarloSimulation\bin\Debug\MonteCarloSimulation.pdb
+C:\Users\owens\RiderProjects\MonteCarloSimulation\MonteCarloSimulation\obj\Debug\MonteCarloSimulation.csprojAssemblyReference.cache
+C:\Users\owens\RiderProjects\MonteCarloSimulation\MonteCarloSimulation\obj\Debug\MonteCarloSimulation.csproj.CoreCompileInputs.cache
+C:\Users\owens\RiderProjects\MonteCarloSimulation\MonteCarloSimulation\obj\Debug\MonteCarloSimulation.exe
+C:\Users\owens\RiderProjects\MonteCarloSimulation\MonteCarloSimulation\obj\Debug\MonteCarloSimulation.pdb

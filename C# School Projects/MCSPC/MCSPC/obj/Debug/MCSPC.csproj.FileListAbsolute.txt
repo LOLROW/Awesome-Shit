@@ -1,0 +1,6 @@
+C:\Users\owens\RiderProjects\MCSPC\MCSPC\bin\Debug\MCSPC.exe
+C:\Users\owens\RiderProjects\MCSPC\MCSPC\bin\Debug\MCSPC.pdb
+C:\Users\owens\RiderProjects\MCSPC\MCSPC\obj\Debug\MCSPC.csprojAssemblyReference.cache
+C:\Users\owens\RiderProjects\MCSPC\MCSPC\obj\Debug\MCSPC.csproj.CoreCompileInputs.cache
+C:\Users\owens\RiderProjects\MCSPC\MCSPC\obj\Debug\MCSPC.exe
+C:\Users\owens\RiderProjects\MCSPC\MCSPC\obj\Debug\MCSPC.pdb
