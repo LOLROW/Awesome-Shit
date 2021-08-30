@@ -1,0 +1,6 @@
+C:\Users\strader_883193\RiderProjects\AreaFinder\AreaFinder\bin\Debug\AreaFinder.exe
+C:\Users\strader_883193\RiderProjects\AreaFinder\AreaFinder\bin\Debug\AreaFinder.pdb
+C:\Users\strader_883193\RiderProjects\AreaFinder\AreaFinder\obj\Debug\AreaFinder.csprojAssemblyReference.cache
+C:\Users\strader_883193\RiderProjects\AreaFinder\AreaFinder\obj\Debug\AreaFinder.csproj.CoreCompileInputs.cache
+C:\Users\strader_883193\RiderProjects\AreaFinder\AreaFinder\obj\Debug\AreaFinder.exe
+C:\Users\strader_883193\RiderProjects\AreaFinder\AreaFinder\obj\Debug\AreaFinder.pdb
